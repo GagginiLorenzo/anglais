@@ -1,0 +1,30 @@
+
+RESUMER DES SPEECHS POUR AVOIR UNE VAGUE IDEE DE CE QUE CHACUN VEUX DIRE
+
+Jules :
+
+Good morning distinguished members of the board. I appreciate the opportunity to present our latest innovation: an AI system designed to convert audio files into text files for the creation of subtitles. Allow me to explain the technical workings of this technology
+
+The first step is the AI’s ability to capture and analyze audio input. When a file is uploaded, the AI immediately begins to process the sound waves using advanced algorithms. These algorithms break down the audio into smaller segments, focusing on patterns, frequencies, and acoustic details. By doing this, the AI can isolate speech from background noise, which is essential to ensure the accuracy of the transcription.
+
+Next, the AI uses a speech recognition model that has been trained on a vast amount of audio data in multiple languages and accents. It identifies the words being spoken and converts these audio patterns into text.
+
+Our AI also has an error-checking feature. It compares the generated text with its initial predictions and uses contextual clues to correct any mistakes. For example, if there is a background noise that might interfere with word clarity, the AI cross-references similar words to select the most accurate one based on the context of the conversation. This way, the system minimizes errors and improves the overall quality of the subtitles.
+
+In summary, the process involves several steps: audio analysis, speech recognition, text structuring, and synchronization. This combination of technologies allows our AI to produce accurate and efficient subtitles automatically. It’s a highly adaptable and robust system that aims to make subtitle creation faster, more reliable, and accessible.
+
+
+Lorenzo :
+
+Vietnam is a vibrant country with nearly 100 million people, and millions more speak Vietnamese globally.
+Despite this, Vietnamese remains underrepresented in online content,
+leaving a significant opportunity for creators and businesses to reach this untapped audience.
+
+Our AI tool enables creators to automatically generate accurate Vietnamese subtitles for their videos.
+This opens up global content—whether educational, entertaining, or business-focused—to Vietnamese speakers, without the need for fluency.
+A YouTuber in the U.S. could now easily reach millions in Vietnam, and local Vietnamese entrepreneurs could share their stories with the world.
+
+By breaking down these language barriers, we’re creating new opportunities for content creators,
+and making Vietnamese speakers feel included in the digital space.
+This is more than translation—it’s about expanding access and fostering deeper connections.
+

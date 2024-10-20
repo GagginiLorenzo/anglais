@@ -1,0 +1,27 @@
+---
+title: "AI auto-subtitle generation product for YouTube videos"
+author: "John Doe"
+format: beamer
+---
+
+### **"Vietnam - A Growing Market"**
+
+<center>
+![vietnam-location-map](vietnam-location-map.jpg){width=80%}
+</center>
+
+- Bullet point : “Nearly 100 million people speak Vietnamese.”
+
+### **"AI-Powered Subtitles for Vietnamese"**
+
+![Ho Chi Minh City – a modern and dynamic city that offers a great environment for both business and leisure.](city.png){width=80%}
+
+- Bullet point : “Rapidly develloping country, underrepresented in online content.”
+
+### **"Breaking Language Barriers"**
+
+<center>
+![](language.jpeg){width=80%}
+</center>
+
+- Bullet point: “Creating new opportunities for creators and viewers.”
